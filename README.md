@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamTed
 - 👀 I’m interested in Frontend Web development
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS & Javascript
 - 💞️ I’m looking to collaborate on new simple projects
 - 📫 How to reach me ...
 
